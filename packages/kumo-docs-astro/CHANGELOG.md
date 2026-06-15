@@ -1,5 +1,14 @@
 # @cloudflare/kumo-docs-astro
 
+## 1.5.10
+
+### Patch Changes
+
+- 4378067: feat(radio): add generic value type support to Radio.Group and Radio.Item
+- Updated dependencies [4378067]
+- Updated dependencies [815628f]
+  - @cloudflare/kumo@2.6.0
+
 ## 1.5.9
 
 ### Patch Changes

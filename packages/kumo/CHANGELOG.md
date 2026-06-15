@@ -1,5 +1,15 @@
 # @cloudflare/kumo
 
+## 2.6.0
+
+### Minor Changes
+
+- 815628f: Extend LegendItems to take pointer events & timeseries merges forwardref to support those events
+
+### Patch Changes
+
+- 4378067: feat(radio): add generic value type support to Radio.Group and Radio.Item
+
 ## 2.5.2
 
 ### Patch Changes
